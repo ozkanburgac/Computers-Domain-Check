@@ -1,0 +1,1 @@
+﻿nltest /server:HPMN-0007 /sc_query:hp.local
